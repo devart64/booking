@@ -19,6 +19,7 @@ public class Book implements Serializable{
     private String author;
     //private Category category;
     private String date;
+    private String url_img;
     private String language;
     private int isbn;
     private int nb_pages;
